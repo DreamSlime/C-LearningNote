@@ -156,4 +156,4 @@ void test01() {
 
 得到结果：
 
-![image-20210116162342658](picture\结果.png)
+![image-20210116162342658](./picture/结果.png)

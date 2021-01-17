@@ -36,12 +36,12 @@ smbpasswd -a 用户名
 
  通过在linux终端下输入 ifconfig
 
-![image-20210113002623004](picture\ip地址.png)
+![image-20210113002623004](./picture/ip地址.png)
 
 即可查看本机的局域网内的ip。
 在window上判断确定能ping同该ip后，即可在
 
-![image-20210113003244820](picture\打开samba服务器.png)
+![image-20210113003244820](./picture/打开samba服务器.png)
 
 这个地方输入\\\\192.168.XXX.XXX即可访问slime文件夹下的文件系统。并且可以实现增删改操作。
 

@@ -6,11 +6,11 @@
 
 1.存储目录下：
 
-![image-20210116214550286](picture\1存储目录.png)
+![image-20210116214550286](./picture/1存储目录.png)
 
 2.项目文件下：
 
-![image-20210116214640485](picture\1项目文件.png)
+![image-20210116214640485](./picture/1项目文件.png)
 
 这样子就会使文件结构很乱无法区分哪些是临时文件
 
@@ -20,7 +20,7 @@
 
 右键项目然后选择属性；
 
-![image-20210116215428931](picture\1配置和平台.png)
+![image-20210116215428931](./picture/1配置和平台.png)
 
 将<font color=red>配置改为所有配置,平台改为所有平台。</font>
 
@@ -48,7 +48,7 @@ $(SolutionDir)../temp/$(Platform)/$(Configuration)/$(ProjectName)
 
 最后就会形成一个这样的目录树
 
-![image-20210116222057675](picture\1目录树.png)
+![image-20210116222057675](./picture/1目录树.png)
 
 #### **2.执行项目**
 
